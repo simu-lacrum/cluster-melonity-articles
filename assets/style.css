@@ -113,6 +113,26 @@ body {
   overflow-wrap: anywhere;
 }
 
+.article-figure {
+  margin: 34px 0;
+}
+
+.article-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: var(--surface);
+}
+
+.article-figure figcaption {
+  margin-top: 10px;
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.55;
+}
+
 .article-grid {
   display: grid;
   gap: 16px;

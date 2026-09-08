@@ -59,13 +59,14 @@ Its weakness is the other side of the same coin. The public page does not provid
 <!-- IMAGE_SLOT_01
 Type: real screenshot
 Placement: after the Cluster model
-Asset: assets/cluster-deadlock-feature-summary-2026-09-08.png
-Production note: Use the current product-summary capture. Add an external caption with source and date. Do not add independent-looking safety or status badges.
+Asset: assets/cluster-deadlock-misc-menu-2026-09-08.png
+Production note: Publisher-provided in-game screenshot. Keep the game identity explicit and do not add independent-looking safety or status badges.
 -->
 
-![Cluster Deadlock feature summary and order block](assets/cluster-deadlock-feature-summary-2026-09-08.png)
-
-*Cluster vendor page, checked September 8, 2026. The capture shows the compact product-summary model and available duration controls.*
+<figure class="article-figure">
+  <img src="{{ '/assets/cluster-deadlock-misc-menu-2026-09-08.png' | relative_url }}" alt="Cluster Deadlock in-game menu showing Misc controls over a live match scene" width="1280" height="720" loading="lazy" decoding="async">
+  <figcaption>Publisher-provided Cluster Deadlock menu with the Misc panel open. The screenshot documents the interface shown; it is not independent evidence of performance, compatibility, or account safety.</figcaption>
+</figure>
 
 The current [deadlock cheat](https://cluster.center/en/deadlock) page is the source of record for Cluster's live categories, requirements, and access options.
 

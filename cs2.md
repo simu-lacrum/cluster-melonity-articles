@@ -81,6 +81,11 @@ Those items are observable promises, not proof that every support request is sol
 
 If you want to inspect the paid offer rather than infer it from a comparison, the live [buy cheats cs2](https://cluster.center/en/cs2) page shows Cluster’s current plans, requirements and feature categories.
 
+<figure class="article-figure">
+  <img src="{{ '/assets/cluster-cs2-triggerbot-menu-2026-09-08.png' | relative_url }}" alt="Cluster CS2 in-game menu with the TriggerBot settings panel open over a match scene" width="1116" height="649" loading="lazy" decoding="async">
+  <figcaption>Publisher-provided Cluster CS2 menu with the TriggerBot panel open. The screenshot illustrates visible controls; it does not independently verify performance or account safety.</figcaption>
+</figure>
+
 ## Total cost of ownership is more than the access price
 
 A subscription price is visible. Time cost is usually hidden. Use this five-line worksheet before choosing either model; fill the access field only after checking the live page and checkout in your region.
