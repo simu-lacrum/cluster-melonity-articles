@@ -107,9 +107,3 @@ No. The listing says refund requests are reviewed under the purchase terms and a
 ## Final takeaway
 
 Compatibility research is mostly disciplined note-taking. Confirm the environment, keep system and game claims separate, record the order details and use the correct support route. If a required answer is missing, do not guess just because the checkout button is ready.
-
-## Internal-link suggestions
-
-- Melonity access-plan comparison
-- Digital-key refund checklist
-- Dota 2 product-page evidence guide
