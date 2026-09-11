@@ -30,3 +30,4 @@ Eight evidence-led guides covering public product claims, access models, update 
 - [Публичный changelog и status page: минимальная схема доверия]({{ '/guides/publichnyy-changelog-i-status-page/' | relative_url }})
 - [Что проверять после обновления CS2]({{ '/guides/posle-obnovleniya-cs2-chto-proveryat/' | relative_url }})
 - [Матрица поддержки героев Deadlock]({{ '/guides/matrica-podderzhki-geroev-deadlock/' | relative_url }})
+- [Как выбрать скинченджер: каталог, фильтры, откат]({{ '/guides/kak-vybrat-skinchanger-katalog-filtry-otkat/' | relative_url }})
