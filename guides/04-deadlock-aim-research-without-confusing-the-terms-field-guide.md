@@ -1,6 +1,7 @@
 ---
 title: "Deadlock Aim Research Without Confusing the Terms — Field Guide"
 description: "Deadlock Aim Research Without Confusing the Terms — Field Guide. A versioned editorial page note covering scope, evidence, freshness, and practical stop conditions."
+permalink: /guides/04-deadlock-aim-research-without-confusing-the-terms-field-guide/
 game: deadlock
 language: en
 primary_keyword: "FOV terminology"

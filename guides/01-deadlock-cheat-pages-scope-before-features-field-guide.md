@@ -1,6 +1,7 @@
 ---
 title: "Deadlock Cheat Pages: Scope Before Features — Field Guide"
 description: "Deadlock Cheat Pages: Scope Before Features — Field Guide. A versioned editorial page note covering scope, evidence, freshness, and practical stop conditions."
+permalink: /guides/01-deadlock-cheat-pages-scope-before-features-field-guide/
 game: deadlock
 language: en
 primary_keyword: "a broad Deadlock hub"

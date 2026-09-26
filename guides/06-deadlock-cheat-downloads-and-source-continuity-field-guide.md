@@ -1,6 +1,7 @@
 ---
 title: "Deadlock Cheat Downloads and Source Continuity — Field Guide"
 description: "Deadlock Cheat Downloads and Source Continuity — Field Guide. A versioned editorial page note covering scope, evidence, freshness, and practical stop conditions."
+permalink: /guides/06-deadlock-cheat-downloads-and-source-continuity-field-guide/
 game: deadlock
 language: en
 primary_keyword: "source and download provenance"

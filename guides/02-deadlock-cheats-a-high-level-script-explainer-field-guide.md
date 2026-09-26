@@ -1,6 +1,7 @@
 ---
 title: "Deadlock Cheats: A High-Level Script Explainer — Field Guide"
 description: "Deadlock Cheats: A High-Level Script Explainer — Field Guide. A versioned editorial page note covering scope, evidence, freshness, and practical stop conditions."
+permalink: /guides/02-deadlock-cheats-a-high-level-script-explainer-field-guide/
 game: deadlock
 language: en
 primary_keyword: "hero scripts and combo automation"

@@ -1,6 +1,7 @@
 ---
 title: "Where to Buy Deadlock Cheats: A Buyer Checklist — Field Guide"
 description: "Where to Buy Deadlock Cheats: A Buyer Checklist — Field Guide. A versioned editorial page note covering scope, evidence, freshness, and practical stop conditions."
+permalink: /guides/05-where-to-buy-deadlock-cheats-a-buyer-checklist-field-guide/
 game: deadlock
 language: en
 primary_keyword: "a buyer checklist"

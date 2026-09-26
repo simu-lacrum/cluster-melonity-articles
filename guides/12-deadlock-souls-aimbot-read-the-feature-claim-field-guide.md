@@ -1,6 +1,7 @@
 ---
 title: "Deadlock Souls Aimbot: Read the Feature Claim — Field Guide"
 description: "Deadlock Souls Aimbot: Read the Feature Claim — Field Guide. A versioned editorial page note covering scope, evidence, freshness, and practical stop conditions."
+permalink: /guides/12-deadlock-souls-aimbot-read-the-feature-claim-field-guide/
 game: deadlock
 language: en
 primary_keyword: "a feature-specific Souls aimbot page"

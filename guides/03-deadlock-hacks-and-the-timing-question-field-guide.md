@@ -1,6 +1,7 @@
 ---
 title: "Deadlock Hacks and the Timing Question — Field Guide"
 description: "Deadlock Hacks and the Timing Question — Field Guide. A versioned editorial page note covering scope, evidence, freshness, and practical stop conditions."
+permalink: /guides/03-deadlock-hacks-and-the-timing-question-field-guide/
 game: deadlock
 language: en
 primary_keyword: "an auto-parry explainer"

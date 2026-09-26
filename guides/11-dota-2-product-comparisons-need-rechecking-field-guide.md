@@ -1,6 +1,7 @@
 ---
 title: "Dota 2 Product Comparisons Need Rechecking — Field Guide"
 description: "Dota 2 Product Comparisons Need Rechecking — Field Guide. A versioned editorial page note covering scope, evidence, freshness, and practical stop conditions."
+permalink: /guides/11-dota-2-product-comparisons-need-rechecking-field-guide/
 game: dota2
 language: en
 primary_keyword: "a product comparison"

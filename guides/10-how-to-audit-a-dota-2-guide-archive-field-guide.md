@@ -1,6 +1,7 @@
 ---
 title: "How to Audit a Dota 2 Guide Archive — Field Guide"
 description: "How to Audit a Dota 2 Guide Archive — Field Guide. A versioned editorial page note covering scope, evidence, freshness, and practical stop conditions."
+permalink: /guides/10-how-to-audit-a-dota-2-guide-archive-field-guide/
 game: dota2
 language: en
 primary_keyword: "a guides archive"

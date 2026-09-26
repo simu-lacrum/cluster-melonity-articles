@@ -1,6 +1,7 @@
 ---
 title: "A Practical Dota 2 Cheat Hub Checklist — Field Guide"
 description: "A Practical Dota 2 Cheat Hub Checklist — Field Guide. A versioned editorial page note covering scope, evidence, freshness, and practical stop conditions."
+permalink: /guides/07-a-practical-dota-2-cheat-hub-checklist-field-guide/
 game: dota2
 language: en
 primary_keyword: "a broad Dota 2 hub"

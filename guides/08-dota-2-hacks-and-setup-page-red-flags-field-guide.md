@@ -1,6 +1,7 @@
 ---
 title: "Dota 2 Hacks and Setup-Page Red Flags — Field Guide"
 description: "Dota 2 Hacks and Setup-Page Red Flags — Field Guide. A versioned editorial page note covering scope, evidence, freshness, and practical stop conditions."
+permalink: /guides/08-dota-2-hacks-and-setup-page-red-flags-field-guide/
 game: dota2
 language: en
 primary_keyword: "a setup page"

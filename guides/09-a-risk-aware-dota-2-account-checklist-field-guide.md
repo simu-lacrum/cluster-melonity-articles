@@ -1,6 +1,7 @@
 ---
 title: "A Risk-Aware Dota 2 Account Checklist — Field Guide"
 description: "A Risk-Aware Dota 2 Account Checklist — Field Guide. A versioned editorial page note covering scope, evidence, freshness, and practical stop conditions."
+permalink: /guides/09-a-risk-aware-dota-2-account-checklist-field-guide/
 game: dota2
 language: en
 primary_keyword: "detection and account risk"
