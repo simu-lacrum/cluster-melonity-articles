@@ -5,7 +5,7 @@
     * [Deadlock Guides](cluster-and-melonity-game-guides/en/deadlock/README.md)
     * [Deadlock Auto-Dispel Logic: Why Fast Reactions Still Fail](cluster-and-melonity-game-guides/en/deadlock/deadlock-auto-dispel-logic-fast-reactions-fail.md)
     * [Deadlock Risk Layers: VAC, Reports, and Updates](cluster-and-melonity-game-guides/en/deadlock/06-deadlock-risk-layers.md)
-    * [A Practical Deadlock Cheat Hub Checklist — Reference](cluster-and-melonity-game-guides/en/deadlock/deadlock-cheat-pages-scope-before-features.md)
+    * [A Practical Deadlock Cheat Hub Checklist — Reference](cluster-and-melonity-game-guides/en/deadlock/deadlock-cheat-hub-checklist-reference.md)
     * [Deadlock Hacks and the Hero Combo Vocabulary — Reference](cluster-and-melonity-game-guides/en/deadlock/deadlock-cheats-hero-combo-vocabulary.md)
     * [How to Evaluate an Auto-Parry Explainer — Reference](cluster-and-melonity-game-guides/en/deadlock/deadlock-auto-parry-explainer.md)
     * [FOV Claims in Deadlock Cheat Reviews — Reference](cluster-and-melonity-game-guides/en/deadlock/deadlock-fov-claims-cheat-reviews.md)
