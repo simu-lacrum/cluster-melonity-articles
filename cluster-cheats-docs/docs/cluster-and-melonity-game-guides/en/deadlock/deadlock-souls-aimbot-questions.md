@@ -11,7 +11,7 @@ keyword_density_target: 1-2%
 sources_used: ["https://cheatsgaming.com/games/deadlock/deadlock-souls-aimbot"]
 product: "Cluster"
 target_url: "https://cheatsgaming.com/games/deadlock/deadlock-souls-aimbot"
-anchor: "Dota 2 hacks"
+anchor: "deadlock cheats"
 image_source: "https://cheatsgaming.com/images/articles/deadlock-souls-aimbot/cluster-souls-aimbot-settings.webp"
 image_placement: "Hero image below the opening; retain source attribution in the platform caption when available."
 ---

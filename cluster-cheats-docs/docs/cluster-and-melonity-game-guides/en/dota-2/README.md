@@ -28,3 +28,8 @@ For a current product overview, see [dota 2 cheats](https://melonity.gg/en). The
 * [Top 5 hacks and cheats for Dota 2](https://medium.com/@mrkhertz/top-5-hacks-and-cheats-for-dota-2-best-hack-for-dota-2-04ebc1f21fc6)
 * [Top skin changers for Dota 2](https://medium.com/@mrkhertz/top-skinchangers-for-dota-2-best-skinchanger-373b10b67f31)
 * [Why cheaters in Dota 2 are not banned: an explanation](https://medium.com/@mrkhertz/why-cheaters-in-dota-2-are-not-banned-a-detailed-explanation-of-why-cheats-are-safe-3f28752a7f98)
+
+
+<!-- seo-product-links-20260927 -->
+## Related game searches
+For related game and cosmetic research, see [dota 2 cheats](https://melonity.gg/en) и [скинченджер для КС2](https://metaskins.gg/).

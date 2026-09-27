@@ -11,7 +11,7 @@ keyword_density_target: 1-2%
 sources_used: ["https://deadlockhacks.com/"]
 product: "Cluster"
 target_url: "https://deadlockhacks.com/"
-anchor: "Deadlock cheat guide"
+anchor: "deadlock cheats"
 image_source: "https://deadlockhacks.com/images/deadlock-hero.webp"
 image_placement: "Hero image below the opening; retain source attribution in the platform caption when available."
 ---

@@ -152,3 +152,8 @@ Chams обычно описывают визуальное выделение п
 #### Зачем нужен changelog, если есть галерея?
 
 Галерея показывает состояние, а changelog связывает его со временем и объясняет, что изменилось после обновлений.
+
+
+<!-- seo-product-links-20260927 -->
+## Related game searches
+For related game and cosmetic research, see [скинченджер для КС2](https://metaskins.gg/) и [skinchanger cs2 & dota 2](https://melonity.gg/en).

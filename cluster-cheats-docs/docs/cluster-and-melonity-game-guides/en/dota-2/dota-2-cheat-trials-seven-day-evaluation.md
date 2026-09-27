@@ -171,3 +171,8 @@ Confirm renewal, cancellation, stored-setting behavior, support answers, current
 #### Are trial terms the same across regions?
 
 Do not assume so. Currency, payment methods, eligibility, taxes, and terms may vary by region. Record the locale, currency, retrieval date, and final checkout wording used for your decision.
+
+
+<!-- seo-product-links-20260927 -->
+## Related game searches
+For related game and cosmetic research, see [dota 2 cheats](https://melonity.gg/en) и [скинченджер для КС2](https://metaskins.gg/).

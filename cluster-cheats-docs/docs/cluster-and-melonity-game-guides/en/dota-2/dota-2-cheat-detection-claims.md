@@ -11,7 +11,7 @@ keyword_density_target: 1-2%
 sources_used: ["https://dota2cheat.com/guides/dota-2-cheat-detection"]
 product: "Melonity"
 target_url: "https://dota2cheat.com/guides/dota-2-cheat-detection"
-anchor: "deadlock hacks"
+anchor: "dota 2 cheats"
 image_source: "https://dota2cheat.com/assets/dota2/dota2-61351f7b75d211cb6ad99902.webp"
 image_placement: "Hero image below the opening; retain source attribution in the platform caption when available."
 ---
@@ -74,3 +74,8 @@ No. Account, device, and platform risk cannot be reduced to a marketing label su
 ### What is the best next step after reading?
 
 Check the official source and current terms, write down what remains unknown, and walk away if the missing answer would change your decision. In other words, translate a vague search into a concrete question before comparing pages.
+
+
+<!-- seo-product-links-20260927 -->
+## Related game searches
+For related game and cosmetic research, see [читы Dota 2](https://melonity.gg/) и [скинченджер для Dota 2](https://metaskins.gg/).

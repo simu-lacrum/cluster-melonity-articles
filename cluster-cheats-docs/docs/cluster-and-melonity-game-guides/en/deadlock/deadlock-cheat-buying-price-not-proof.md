@@ -11,7 +11,7 @@ keyword_density_target: 1-2%
 sources_used: ["https://deadlockhacks.com/guides/where-to-buy-deadlock-cheats-buyer-checklist"]
 product: "Cluster"
 target_url: "https://deadlockhacks.com/guides/where-to-buy-deadlock-cheats-buyer-checklist"
-anchor: "source-checked game tools"
+anchor: "deadlock cheats"
 image_source: "https://deadlockhacks.com/images/editorial/where-to-buy-deadlock-cheats-cover.webp"
 image_placement: "Hero image below the opening; retain source attribution in the platform caption when available."
 ---

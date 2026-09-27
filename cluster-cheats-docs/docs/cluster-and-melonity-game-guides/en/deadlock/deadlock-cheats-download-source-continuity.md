@@ -11,7 +11,7 @@ keyword_density_target: 1-2%
 sources_used: ["https://deadlockhacks.com/guides/deadlock-cheats-download-find-the-real-source"]
 product: "Cluster"
 target_url: "https://deadlockhacks.com/guides/deadlock-cheats-download-find-the-real-source"
-anchor: "feature scope"
+anchor: "deadlock cheats"
 image_source: "https://deadlockhacks.com/images/editorial/deadlock-cheats-download-cover.webp"
 image_placement: "Hero image below the opening; retain source attribution in the platform caption when available."
 ---

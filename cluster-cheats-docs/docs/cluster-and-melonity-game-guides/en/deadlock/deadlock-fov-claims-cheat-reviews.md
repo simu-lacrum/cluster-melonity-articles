@@ -11,7 +11,7 @@ keyword_density_target: 1-2%
 sources_used: ["https://deadlockhacks.com/guides/deadlock-aimbot-fov-vs-camera-fov-explained"]
 product: "Cluster"
 target_url: "https://deadlockhacks.com/guides/deadlock-aimbot-fov-vs-camera-fov-explained"
-anchor: "Dota 2 cheat research"
+anchor: "deadlock cheats"
 image_source: "https://deadlockhacks.com/images/editorial/deadlock-aimbot-fov-cover.webp"
 image_placement: "Hero image below the opening; retain source attribution in the platform caption when available."
 ---
