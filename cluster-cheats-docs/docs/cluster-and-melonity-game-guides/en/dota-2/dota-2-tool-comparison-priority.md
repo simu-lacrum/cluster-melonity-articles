@@ -1,6 +1,6 @@
 ---
-title: "Compare Dota 2 Tools by Player Priority — Reference"
-description: "Compare Dota 2 Tools by Player Priority — Reference. A documentation entry note covering scope, evidence, freshness, and practical stop conditions."
+title: "Compare Dota 2 Cheats by Player Priority — Reference"
+description: "Compare Dota 2 Cheats by Player Priority — Reference. A documentation entry note covering scope, evidence, freshness, and practical stop conditions."
 game: dota2
 language: en
 primary_keyword: "a product comparison"
@@ -16,7 +16,7 @@ image_source: "https://dota2cheat.com/assets/dota2/dota2-a0d8764f8ce455915056929
 image_placement: "Hero image below the opening; retain source attribution in the platform caption when available."
 ---
 
-# Compare Dota 2 Tools by Player Priority — Reference
+# Compare Dota 2 Cheats by Player Priority — Reference
 
 Searching for a product comparison usually means the reader wants a narrower answer than a feature list can provide. This short guide uses a search intent lens and a intent-first review workflow: translate a vague search into a concrete question before comparing pages. The useful outcome is not a universal verdict; it is a cleaner next question and a reason to stop when the evidence does not carry the claim.
 
@@ -24,7 +24,7 @@ Searching for a product comparison usually means the reader wants a narrower ans
 
 ## Start with the job behind the query
 
-The page at [Dota 2 cheats](https://dota2cheat.com/guides/melonity-vs-umbrella) should be read as a source for one specific decision: make the comparison conditional on reader priorities, evidence quality, and review date. Keep that job visible while reading. For this target, the working note is: A comparison between Melonity and Umbrella is more useful when its criteria are visible before the verdict. Check whether the same evidence standard is applied to both names, whether reader priorities are separated, and whether the review date is clear. A conditional fit is more honest than a universal winner. Re-run the comparison when scope, documentation, support, or public terms change; a precise score cannot make a stale page current. A practical editorial rule adds: A search-intent pass starts by asking what the reader is trying to decide in the next five minutes. A broad query can hide a need for definitions, a comparison, a current-status check, or a reason to walk away. Put that decision in plain language, then reject claims that answer a different question. This lens is deliberately impatient with a feature dump: it rewards a page that names the user job, links to the right evidence, and admits when the evidence stops. It also keeps the recommendation conditional. A source may be useful for vocabulary and still be a poor basis for a purchase decision. That distinction is a small editorial move, but it prevents the reader from confusing discoverability with proof. A catalogue, a terminology explainer, a setup page, and a comparison article all need different evidence. Treating them as interchangeable is how a polished screenshot turns into an oversized conclusion.
+The page at [dota 2 cheats](https://dota2cheat.com/guides/melonity-vs-umbrella) should be read as a source for one specific decision: make the comparison conditional on reader priorities, evidence quality, and review date. Keep that job visible while reading. For this target, the working note is: A comparison between Melonity and Umbrella is more useful when its criteria are visible before the verdict. Check whether the same evidence standard is applied to both names, whether reader priorities are separated, and whether the review date is clear. A conditional fit is more honest than a universal winner. Re-run the comparison when scope, documentation, support, or public terms change; a precise score cannot make a stale page current. A practical editorial rule adds: A search-intent pass starts by asking what the reader is trying to decide in the next five minutes. A broad query can hide a need for definitions, a comparison, a current-status check, or a reason to walk away. Put that decision in plain language, then reject claims that answer a different question. This lens is deliberately impatient with a feature dump: it rewards a page that names the user job, links to the right evidence, and admits when the evidence stops. It also keeps the recommendation conditional. A source may be useful for vocabulary and still be a poor basis for a purchase decision. That distinction is a small editorial move, but it prevents the reader from confusing discoverability with proof. A catalogue, a terminology explainer, a setup page, and a comparison article all need different evidence. Treating them as interchangeable is how a polished screenshot turns into an oversized conclusion.
 
 For Dota 2, the mapped product context is **Melonity**. That is context, not a promise that any account or build is risk-free. The editorial test on this version is simple: A page is useful only when its answer matches the job behind the query. A broad catalog, a feature explainer, and an installation article should not be judged by the same checklist. That keeps the article useful even when the page is persuasive but incomplete.
 

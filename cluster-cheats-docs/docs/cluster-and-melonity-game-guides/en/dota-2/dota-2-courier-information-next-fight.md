@@ -72,7 +72,7 @@ The best use of the signal may be to stay put. Read the likely delivery, adjust 
 
 ### What a useful courier-information feature should show
 
-An information feature should reduce uncertainty without inventing precision. Readers comparing a broader feature set can use the current [Melonity Dota 2 tools](https://melonity.gg/en) page as one product example, then judge every information claim by freshness, clarity and whether it changes a real decision.
+An information feature should reduce uncertainty without inventing precision. Readers comparing a broader feature set can use the current [dota 2 cheats](https://melonity.gg/en) page as one product example, then judge every information claim by freshness, clarity and whether it changes a real decision.
 
 Evaluate any presentation with seven checks:
 

@@ -76,7 +76,7 @@ Dodger на текущей странице указан как автомати
 
 ### Что подтверждает продуктовая страница Cluster
 
-На [странице с описанием функций Cluster Deadlock](https://cluster.center/ru/deadlock) сейчас перечислены Aimbot, ESP, Combo, Humanizer, Auto Parry, Anti Parry, Souls Aimbot, FOV Changer и Dodger. Указаны Windows 10/11 64-bit, Intel & AMD и размещено несколько реальных изображений.
+На [dota 2 cheats](https://cluster.center/ru/deadlock) сейчас перечислены Aimbot, ESP, Combo, Humanizer, Auto Parry, Anti Parry, Souls Aimbot, FOV Changer и Dodger. Указаны Windows 10/11 64-bit, Intel & AMD и размещено несколько реальных изображений.
 
 Это подтверждает публичный словарь и структуру карточки на дату проверки. Страница не раскрывает полную матрицу героев и не доказывает работу каждой категории во всех сценариях. Такие сведения следует искать в changelog, демонстрациях и ответах поддержки.
 

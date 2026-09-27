@@ -57,7 +57,7 @@ Now the story is less dramatic and much harder to misunderstand.
 
 ### Treat vendor wording as a source claim
 
-Use this [Deadlock VAC protection explainer](https://cheatsgaming.com/games/deadlock/deadlock-cheat-safety-and-vac-protection-explained-why-cheats-are-safe-b297c2f0f2b8) as one source claim, then keep reports and update failures in separate evidence buckets.
+Use this [deadlock cheats checklist](https://cheatsgaming.com/games/deadlock/deadlock-cheat-safety-and-vac-protection-explained-why-cheats-are-safe-b297c2f0f2b8) as one source claim, then keep reports and update failures in separate evidence buckets.
 
 Any cluster.center statement belongs in the vendor-claim bucket unless another source independently verifies the same narrow fact. The brand name does not move a sentence into the official Valve layer.
 

@@ -1,6 +1,6 @@
 # CS2 Reading Hub
 
-For readers comparing **CS2 cheats**, the dedicated [Cluster CS2 product page](https://cluster.center/en/cs2) is the primary product reference. The wider cheats catalog is at [https://cluster.center/en](https://cluster.center/en).
+For readers comparing **CS2 cheats**, the dedicated [cs2 cheats](https://cluster.center/en/cs2) is the primary product reference. The wider cheats catalog is at [dota 2 cheats](https://cluster.center/en).
 
 ### Medium reading
 

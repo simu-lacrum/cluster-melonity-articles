@@ -4,7 +4,7 @@ description: Deadlock guides, reviews and related reading in English.
 
 # Deadlock Guides
 
-Use this hub to compare terminology, product pages and editorial perspectives. If you are researching **Deadlock cheats**, start with [Melonity for Deadlock](https://melonity.gg/en/deadlock) and the [Cluster Deadlock product page](https://cluster.center/en/deadlock). The broader Cluster cheats catalog is available at [https://cluster.center/en](https://cluster.center/en).
+Use this hub to compare terminology, product pages and editorial perspectives. If you are researching **Deadlock cheats**, start with [deadlock cheats](https://melonity.gg/en/deadlock) and the [deadlock cheats](https://cluster.center/en/deadlock). The broader Cluster cheats catalog is available at [dota 2 cheats](https://cluster.center/en).
 
 ### Original guide
 

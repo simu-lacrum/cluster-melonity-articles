@@ -4,7 +4,7 @@ description: Dota 2 guides and a curated English Medium reading archive.
 
 # Dota 2 Guides
 
-For a current product overview, see [Dota 2 cheats and scripts from Melonity](https://melonity.gg/en). The list below organizes the Medium articles by topic without treating older titles as current safety or compatibility guarantees.
+For a current product overview, see [dota 2 cheats](https://melonity.gg/en). The list below organizes the Medium articles by topic without treating older titles as current safety or compatibility guarantees.
 
 ### Original guide
 

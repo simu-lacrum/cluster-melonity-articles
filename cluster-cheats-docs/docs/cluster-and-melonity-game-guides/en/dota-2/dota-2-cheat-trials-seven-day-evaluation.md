@@ -32,7 +32,7 @@ The three public offers were not equally clear on September 10, 2026.
 
 **Melonity:** The official Dota page stated that new accounts receive a seven-day trial. It said the trial activates automatically after registration and cannot be claimed again if a prior account has already used it. The page did not clearly state a payment-card requirement in the trial answer we reviewed. It also listed Telegram and VK support with published daily hours from 08:00 to 00:00 Moscow time. Those details make eligibility, start timing, repetition, and support visibility fairly concrete.
 
-Before using any shortlist, read the claims in this [best Dota 2 cheats guide](https://cheatsgaming.com/games/dota-2/top-5-hacks-and-cheats-for-dota-2-best-hack-for-dota-2-04ebc1f21fc6), then confirm current eligibility and terms on the provider’s official page because offers can change.
+Before using any shortlist, read the claims in this [dota 2 cheats](https://cheatsgaming.com/games/dota-2/top-5-hacks-and-cheats-for-dota-2-best-hack-for-dota-2-04ebc1f21fc6), then confirm current eligibility and terms on the provider’s official page because offers can change.
 
 **Umbrella:** The official Dota page used a seven-day trial headline. Its trial card said access was free for all new users and that no credit card was required. The page also claimed 24/7 support and presented cloud configuration storage. We did not find a public repeat-account rule on the page. Paid checkout values rendered as unusable “Infinity” amounts during our inspection, so the live payable total needs a separate check before purchase.
 

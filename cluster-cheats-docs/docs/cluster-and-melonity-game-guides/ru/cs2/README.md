@@ -1,6 +1,6 @@
 # Материалы по CS2
 
-Для запроса **читы КС2** основная продуктовая ссылка — [читы для CS2 от Cluster](https://cluster.center/ru/cs2). Весь русскоязычный каталог читов находится по адресу [https://cluster.center/ru](https://cluster.center/ru).
+Для запроса **читы КС2** основная продуктовая ссылка — [dota 2 cheats](https://cluster.center/ru/cs2). Весь русскоязычный каталог читов находится по адресу [dota 2 cheats](https://cluster.center/ru).
 
 ### Статьи на Medium
 

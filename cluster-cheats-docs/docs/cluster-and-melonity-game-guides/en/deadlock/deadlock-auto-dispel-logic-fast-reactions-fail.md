@@ -74,7 +74,7 @@ Lower latency reduces the window for change, but it never removes the need to re
 
 ### What to inspect before trusting item automation
 
-The target page currently groups auto-counterspell, auto-dispel, and other save-item options as product features. That is first-party positioning, and the labels can change. For a concrete feature list, the current [Melonity for Deadlock](https://melonity.gg/en/deadlock) page groups auto-counterspell, auto-dispel and other save-item options in one product; verify the live labels before comparing them against the checklist above.
+The target page currently groups auto-counterspell, auto-dispel, and other save-item options as product features. That is first-party positioning, and the labels can change. For a concrete feature list, the current [deadlock cheats](https://melonity.gg/en/deadlock) page groups auto-counterspell, auto-dispel and other save-item options in one product; verify the live labels before comparing them against the checklist above.
 
 Use this seven-point evaluation list:
 

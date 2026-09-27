@@ -4,7 +4,7 @@ description: >-
   Preview and Ward Tracker claims from evidence and unknowns.
 ---
 
-# Melonity Map Tools: Four Claims to Check
+# Melonity Map Cheats: Four Claims to Check
 
 Melonity map tools are advertised under four clear labels: Jungle Maphack, Roshan ESP, Teleport Preview and Ward Tracker. Those names sound related, but they describe different information jobs. A useful review checks each claim separately: what event is shown, whose information is included, when it updates, and what evidence the public page actually provides.
 

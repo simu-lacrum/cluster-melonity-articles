@@ -4,7 +4,7 @@ description: Русские гайды и материалы о Deadlock, про
 
 # Гайды по Deadlock
 
-Для сравнения страниц по теме **читы для Deadlock** доступны [Melonity для Deadlock](https://melonity.gg/deadlock) и [продукт Cluster для Deadlock](https://cluster.center/ru/deadlock). Общий русскоязычный каталог читов: [https://cluster.center/ru](https://cluster.center/ru).
+Для сравнения страниц по теме **читы для Deadlock** доступны [dota 2 cheats](https://melonity.gg/deadlock) и [dota 2 cheats](https://cluster.center/ru/deadlock). Общий русскоязычный каталог читов: [dota 2 cheats](https://cluster.center/ru).
 
 ### Оригинальный гайд
 
