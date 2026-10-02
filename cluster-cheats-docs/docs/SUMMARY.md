@@ -32,3 +32,5 @@
     * [Материалы по CS2](cluster-and-melonity-game-guides/ru/cs2/README.md)
       * [Aimbot, TriggerBot, ESP и HUD: словарь функций CS2](cluster-and-melonity-game-guides/ru/cs2/slovar-funkciy-cs2.md)
     * [Документация игрового сервиса: минимальный стандарт доверия](cluster-and-melonity-game-guides/ru/dokumentaciya-igrovogo-servisa.md)
+    * [Cheats for CS2: a private product-page checklist](cluster-and-melonity-game-guides/en/cheats-for-cs2-private-product-page-checklist.md)
+      * [Читы на Дедлок: как проверить страницу продукта](cluster-and-melonity-game-guides/ru/deadlock/chity-na-dedlok-proverka-stranicy-produkta.md)
